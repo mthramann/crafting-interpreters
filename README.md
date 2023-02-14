@@ -1,2 +1,2 @@
 # crafting-interpreters
-My code for the crafting interpreters book
+My code from the [Crafting Interpreters](https://craftinginterpreters.com) book.
